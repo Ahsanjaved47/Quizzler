@@ -1,8 +1,8 @@
 import 'dart:async';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
-import 'quiz_brain.dart'; // Import QuizBrain
-import 'question.dart'; // Import Question class
+import 'quiz_core.dart'; // Import QuizBrain
+import 'quiz_file.dart'; // Import Question class
 
 void main() => runApp(QuizzlerApp());
 

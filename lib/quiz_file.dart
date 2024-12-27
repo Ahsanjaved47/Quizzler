@@ -1,7 +1,7 @@
-class Question {
+class Questionfile {
   String questionText;
   bool questionAnswer;
 
   // Using initializer list to initialize fields
-  Question(this.questionText, this.questionAnswer);
+  Questionfile(this.questionText, this.questionAnswer);
 }
